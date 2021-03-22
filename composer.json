@@ -1,5 +1,5 @@
 {
-    "name": "kitfbgh/logger",
+    "name": "snic104/logger",
     "license": "MIT",
     "authors": [
         {
@@ -7,8 +7,13 @@
             "email": "a8732987@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "true",
     "require": {
         "psr/log": "1.1.x-dev"
+    },
+    "autoload": {
+        "classmap": [
+            "libraries"
+        ]
     }
 }
