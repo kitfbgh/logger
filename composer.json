@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Snic\\Logger\\": "Php/Exam/"
+            "Snic104\\Logger\\": "Php/Exam/"
         }
     }
 }
