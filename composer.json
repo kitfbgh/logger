@@ -7,13 +7,13 @@
             "email": "a8732987@gmail.com"
         }
     ],
-    "minimum-stability": "true",
+    "minimum-stability": "stable",
     "require": {
         "psr/log": "1.1.x-dev"
     },
     "autoload": {
-        "classmap": [
-            "libraries"
-        ]
+        "psr-4": {
+            "Kitfbgh\\Logger\\": "src/"
+        }
     }
 }
