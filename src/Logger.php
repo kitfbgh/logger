@@ -1,7 +1,7 @@
 <?php
 namespace Php\Exam;
 
-require 'vendor/autoload.php';
+require './vendor/autoload.php';
 
 use Psr\Log\LoggerInterface;
 
