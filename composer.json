@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Kitfbgh\\Logger\\": "Php/Exam/"
+            "Snic\\Logger\\": "Php/Exam/"
         }
     }
 }
