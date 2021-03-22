@@ -1,0 +1,14 @@
+{
+    "name": "kitfbgh/logger",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Natz",
+            "email": "a8732987@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "psr/log": "1.1.x-dev"
+    }
+}
